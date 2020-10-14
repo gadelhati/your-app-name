@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gadelhati/your-app-name/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gadelhati/your-app-name/static/js/main.64b6da8a.chunk.js",
+    "main.js.map": "/gadelhati/your-app-name/static/js/main.64b6da8a.chunk.js.map",
+    "runtime-main.js": "/gadelhati/your-app-name/static/js/runtime-main.9cfe9272.js",
+    "runtime-main.js.map": "/gadelhati/your-app-name/static/js/runtime-main.9cfe9272.js.map",
+    "static/js/2.4b62b853.chunk.js": "/gadelhati/your-app-name/static/js/2.4b62b853.chunk.js",
+    "static/js/2.4b62b853.chunk.js.map": "/gadelhati/your-app-name/static/js/2.4b62b853.chunk.js.map",
+    "index.html": "/gadelhati/your-app-name/index.html",
+    "precache-manifest.4781aeed460ea036b15148fd93adddd0.js": "/gadelhati/your-app-name/precache-manifest.4781aeed460ea036b15148fd93adddd0.js",
+    "service-worker.js": "/gadelhati/your-app-name/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gadelhati/your-app-name/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4b62b853.chunk.js.LICENSE.txt": "/gadelhati/your-app-name/static/js/2.4b62b853.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gadelhati/your-app-name/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cfe9272.js",
+    "static/js/2.4b62b853.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.64b6da8a.chunk.js"
+  ]
+}
